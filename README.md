@@ -1,4 +1,3 @@
-```
 # ATS Resume Analyzer Bot
 
 A Telegram bot that analyzes resumes against Job Descriptions and provides a deterministic ATS score with AI-powered explanations and recommendations.
@@ -230,4 +229,3 @@ node_modules/
 
 This project is for educational and development purposes.
 
-```
